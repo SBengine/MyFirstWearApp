@@ -13,7 +13,8 @@ Android wear "mobile to wear" and "wear to mobile" communication example from Co
 
 <h2><a id="user-content-thanks-to" class="anchor" href="#thanks-to" aria-hidden="true"><span class="octicon octicon-link"></span></a>Thanks to:</h2>
 
-<p>Mario Viviani - <a href="https://github.com/Mariuxtheone">https://github.com/Mariuxtheone</a></p>
+<p><a href="https://github.com/Mariuxtheone">Mario Viviani</a>
+for his library - <a href="https://github.com/Mariuxtheone/Teleport">Teleport</a></p>
 
 <h2><a id="user-content-license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h2>
 
